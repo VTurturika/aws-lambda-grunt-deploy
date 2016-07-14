@@ -1,0 +1,15 @@
+{
+  "name": "grunt-lambda-deploy",
+  "description": "Simple example of deploying AWS Lambda function using Grunt",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "2.1.1"
+  },
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.13.0",
+    "grunt-pack": "0.1.*",
+    "npm": "^2.8.3"
+  }
+}
